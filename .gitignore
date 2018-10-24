@@ -1,1 +1,8 @@
+# Private Information
+rtc-project/**
+
+# Duplicate Information
 resources/**
+
+# Annoying Files
+*.swp

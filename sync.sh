@@ -6,7 +6,7 @@ mkdir sync_temp
 
 sudo mount -t davfs $DAV_SERVER sync_temp
 
-rsync -r sync_temp resources
+rsync -av sync_temp/ resources
 
 sudo umount -t davfs $DAV_SERVER
 
