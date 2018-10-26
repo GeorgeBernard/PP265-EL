@@ -8,4 +8,6 @@
 
 ## Being Less Wrong More Often
 
-## Shortcoming: Developing Discipline
+## Shortcoming: Developing Discipline  
+
+

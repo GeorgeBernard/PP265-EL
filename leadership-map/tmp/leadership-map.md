@@ -59,6 +59,10 @@ header-includes: |
 ## Establishing the Ripple
 
 ### Focus on Community
+
+### Altruism
+
+## Becoming a Craftsman
 # Success, Happiness, and Meaning
 
 ## Success
@@ -123,7 +127,9 @@ header-includes: |
 
 ## Being Less Wrong More Often
 
-## Shortcoming: Developing Discipline
+## Shortcoming: Developing Discipline  
+
+
 # Leadership Qualities
 
 ## Lead from the Rear
@@ -136,6 +142,11 @@ header-includes: |
 
 ## The Craftsman's Faults and Strengths
 
+## Growth Opportunities - Personal Competency Worksheet 
+
+- Taking action, making decisions, and following through
+- Managing conflict and negotiating
+- Time management
 
 # Twenties Journey: Objective, Direction, and Path
 

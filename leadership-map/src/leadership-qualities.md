@@ -10,4 +10,9 @@
 
 ## The Craftsman's Faults and Strengths
 
+## Growth Opportunities - Personal Competency Worksheet 
+
+- Taking action, making decisions, and following through
+- Managing conflict and negotiating
+- Time management
 

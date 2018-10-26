@@ -12,8 +12,19 @@ mkdir tmp
 awk '{print}' $SRC_FILES > tmp/leadership-map.md
 
 pandoc \
-  --output out/leadership-map.pdf \
-  --table-of-contents             \
-  --standalone                    \
-  --number-sections               \
+  -f markdown                   \
+  -o out/leadership-map.pdf     \
+  --table-of-contents           \
+  --standalone                  \
+  --number-sections             \
+  tmp/leadership-map.md
+
+pandoc \
+  -f markdown                   \
+  -o out/leadership-map.html    \
+  -c cfg/pandoc.css             \
+  --table-of-contents           \
+  --standalone                  \
+  --self-contained              \
+  --number-sections             \
   tmp/leadership-map.md
