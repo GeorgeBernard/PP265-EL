@@ -1,7 +1,7 @@
 ---
 title: Leadership Map
 author: George Bernard
-geometry: "margin=2cm"
+geometry: "margin=1in"
 header-includes: |
   \setcounter{section}{-1}
 ---

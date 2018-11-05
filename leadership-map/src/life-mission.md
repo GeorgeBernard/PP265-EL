@@ -1,11 +1,83 @@
 # Life Mission
 
-## Section Summary
-
 ## Establishing the Ripple
+
+I am not a spiritual person. It's not immediately clear to me what happens to
+us when we die. If we are judged for our actions, how am I to live such that
+Anubis measures my heart lighter than a feather? If we are not judged, then
+what drives me to live the good life. If there is no judgment, then I should
+pursue my own goals ruthlessly and selfishly. I am reminded of the words of Rabbi
+Hillel the Elder
+
+> If I am not for myself who is for me? And being for my own self what am I?
+> If not now when?
+
+We tread a fine line with our time in this world, between acting in the service
+of ourselves and acting in the service of others. My actions, if they are
+ethical, should not be because of a fear of judgment or desire of heavenly
+reward. My actions in the service of helping others and being true to myself
+must be justified by a consistent goal. 
+
+The key to all of this is in my **ripple**. The benefits I make on this world, I
+hope, will last in the signal of kindness of others. There will come a day when
+my name will be forgotten, everyone I know long dead, but the people I help and
+the people they help and they help will continue. My benefit to the world, my
+*raison de etre* is in the ripple of goodness that I will create to my highest
+ability in my own sphere of influence.  
 
 ### Focus on Community
 
-### Altruism
+I live in the domain of the practical and the human. I want to be realistic
+about the benefit I can make in the world. This does not mean I should
+artifically limit the scope of my benefits, but that I focus on helping those
+within my sphere of influence. 
+
+One of my life goals is to have a deep connection with my tribe. I don't mean
+this in a self secluding way. The connotation of focusing on your community can
+come across as a dogwhistle for putting your own people first. When I say tribe
+I mean a responsibility to my people across ethnic, class, religious, and
+political lines. I want to seek out those who challenge me to be better and
+think better. I want to make a place in my life for those people, and I want to
+help them achieve their goals and to feel loved by their tribe in turn.
+
+### Effective Altruism
+
+Tempering this focus on the immediate community, we must see our ability to act
+on the global scale. Our world is incredibly connected, and this has been
+amazing for seeing the way that people around the world live. This has also
+shown us the dire straits that many people in this world live in. We often lose
+our will to act, to overcome the bystander effect, when we are so far away from
+the problems that people face. Simply put, we cannot live in our progressive
+western democracy, go to work in literal towering crystal spires, and
+constantly think about "starving african children or whatever". 
+
+There is huge cognitive dissonance here. If it meant getting our shoes dirty,
+we would save a drowning child. If it meant getting on a plane and flying
+across the world, we would still save a drowning child. From both of these toy
+examples we see that the duty to act is always there, regardless of moderate
+personal damage (ruining clothes) or distance (flying there). How do we get
+from the high level ethical breakdown in which we are honorbound to act, to
+what is implemented as fundamental apathy?
+
+Don't get me wrong, I am not condemning the very human focus on the local over
+the global, but one of my personal goals is to act efficiently in the service
+of global issues. Ergo, my life mission adds two intertwined goals. First, I
+want to donate large amounts of money to extremely effective charities
+(malaria and schistosomiasis intiatives), and, second, I want to share this
+approach to charity, that we should prioritize giving to extremely effective
+charities and that we have a duty to act in what ways we can.
 
 ## Becoming a Craftsman
+
+My last main goal is more amoral. I get pleasure out of making cool things. I
+take pride in the things I make. I have that peculiar affliction that I am
+good at, and deeply love, being an Engineer. It comes back to that Greek idea of Arete, I want to
+maximize my potential in this direction. I want to be the best Engineer I can
+be. Solving cool problems for smart people.
+
+I am a toolmaker. I seek to build the tools that enable others to maximize
+their potential. In this way, I also establish my ripple. I want to smash the
+barriers that people have by enabling them to take advantage of humankinds
+shared incredible computational power. A life of service as a humble toolmaker,
+is a life I will not regret.
+

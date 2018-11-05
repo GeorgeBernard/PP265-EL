@@ -8,6 +8,10 @@
 
 ## Being Less Wrong More Often
 
+### What this means
+
+### Epistemic Humility
+
 ## Shortcoming: Developing Discipline  
 
 

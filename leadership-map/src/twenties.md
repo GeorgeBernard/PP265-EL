@@ -1,8 +1,18 @@
 # Twenties Journey: Objective, Direction, and Path
 
-## Master my Craft
+## Aspirations
 
-## Prioritize Health
+### Find a Community
 
-## Widen my T 
+### Professional Development and Recognition
+
+## Strategies
+
+### Master my Craft
+
+### Prioritize Health
+
+### Widen my T 
+
+
 
