@@ -5,7 +5,7 @@
 For this section, it is useful to understand what I mean when I say integrity.
 I mean it as the sweet spot where our actions overlap with our intentions.
 
-![Integrity = Overlap of Intention and Action](src/Integrity.png)
+![Integrity = Overlap of Intention and Action](src/Integrity.png){width=400}
 
 ## Moral Role Models
 
@@ -39,7 +39,14 @@ a Lion" that drives them to be true to themselves.
 
 ## My Character
 
+My character is built from fundamental traits and principles. Many of these are
+strengths, and many of my strengths have shadow sides from their logical
+terminus. Here I try to list those that are indeed fundamental to my core
+character, those principles I live and die by.
+
 ### Boyscout Principle
+
+> Leave things better than you found them
 
 ### Help Others
 
