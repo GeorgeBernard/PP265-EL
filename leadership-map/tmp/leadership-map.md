@@ -6,25 +6,29 @@ date: \today{}
 geometry: "margin=2cm"
 header-includes:
   - \setcounter{section}{-1}
+  - \usepackage{setspace}
+  - \onehalfspacing
 abstract: |
   This document should function as a map, or snapshot, of where I am in my
   moral trajectory in the final semester of my Duke undergraduate career.
-  Enabled by language and learning from this semesters course in Enterprising
-  Leadership, I am able to codify my values, disect my actions, and establish
-  plans for me to change in the near future as well as missions for the far
-  future. 
+  Enabled by language and learning from this semester's course in Enterprising
+  Leadership, I am able to codify my values, dissect my actions, and establish
+  plans for positive change in the near future as well as broader missions for
+  the far future. 
 
-  I am a service oriented person, with an
-  intense desire to good for others. I often stumble on the path toward being
-  better for others, and that failure is a fuel that drives me to make amends and
-  do right moving forward. I love to make good things that help other accomplish their goals. I am a
-  toolmaker and a motivator for others.
+  I am a service oriented person, with an intense desire to good for others. I
+  often stumble on the path toward being better for others, and that failure is a
+  fuel that drives me to make amends and do right moving forward. I love to make
+  good things that help other accomplish their goals. I am a toolmaker and a
+  motivator for others.
   
-  This is best read in the order presented. Later sections refer to
-  earlier ones, but don't let that stop you from jumping around the text.
+  This is best read in the order presented. Later sections refer to earlier
+  ones, but don't let that stop you from jumping around the text.  
+
 ...
 
 \newpage
+
 # Executive Summary: One Page Leadership Map
 
 ## Life Values and Goals: A Life of Service to my Tribe 
@@ -34,7 +38,7 @@ abstract: |
 - Be stronger hearted, more capable of fighting for what I believe in
 - Make a ripple of generosity and helpfulness from the people I help
 
-## Great Job = Challenge + Community
+## Great Job = Challenge + Community  
 
 - Intellectually Challenging, to always be learning and applying new knowledge
   with like minded people
@@ -42,29 +46,21 @@ abstract: |
   community with my coworkers 
 - Flexible in when and where I work, so long as I am sufficient in
   accomplishing my goals
-- Sense of impact of work, that what I do either helps others or enables me to
-  help others.
+- What I do either helps others or enables me to help others.
 
 ## What I'm good at
 
-- Raw enthusiasm for learning and personal development (i.e. *joie de vivre*)
+- Raw enthusiasm for learning, critical feedback, and personal development
 - Extroversion and genuine interest in the well-being of others.
 - Large sense of responsibility for group settings
 - Personal resilience to difficulty, enthusiasm in the face of discomfort
-- Gregarious and loud, extremely willing to ask dumb question
-- Reflectiveness and unbridled willingness to seek critical feedback and
-  surround myself with those willing to challenge me and help me grow
 
 ## What I suck at
 
 - Interpersonal soft skills (e.g. empathy, group dynamic awareness)
 - Discipline to pursue goals that don’t itch curiosity (i.e. not fun)
-- Shadow side to my volume is that I can unintentionally rollover quieter folks
-- Shadow side to my enthusiasm is that need a fuel that is less capricious
-  when handling tasks that are not engaging
-- I crave positive attention and often make group situations about me. I love
-  the sound of my own voice, and need to de-center myself in group settings.
-- I can often neglect my morals to fit in with the crowd or personal friends
+- I crave positive attention and often make group situations about me
+- I often neglect my morals to fit in with the crowd or personal friends
   better
 
 ## How I will be better eventually
@@ -91,8 +87,8 @@ abstract: |
 ## Childhood: Setting The Stage
 
 When I was born, my mom was scared to give me up. She was deeply worried that
-the world would hurt me, that she needed to protect me. Her doula (a birth
-assistant similar to a midwife) said to her, "No, he will protect you". 
+the world would hurt me, that she needed to protect me. Her Douala (a birth
+assistant similar to a midwife) said to her, "No, he will protect you"...
 
 These are the words that still echo in my life, the guiding perspective that I
 should take care of my friends and neighbors, that I should live a life of
@@ -117,10 +113,10 @@ From my father, Collier, I most admire and try to emulate his:
 From my mother, Patti, I most admire and try to emulate her:
 
 - Intense care for my family and friends
-- Extraversion and a willingness to interact with everyone at their level
+- Extroversion and a willingness to interact with everyone at their level
 - Raw moral courage and strong heartedness
 - Drive to succeed
-- Candor
+- Candor and Honesty
 
 From my most older sister, Katy, I most admire and try to emulate her:
 
@@ -128,7 +124,7 @@ From my most older sister, Katy, I most admire and try to emulate her:
 - Intensity
 - Steadfastness and commitment to her goals
 - Kindness
-- Intelligence (which is huge but she would never admit this to you)
+- Intelligence (which is enormous but she would never admit this to you)
 
 From my less older sister, Alexi, I most admire and try to emulate her:
 
@@ -144,18 +140,18 @@ without their influence.
 
 ### Primary School
 
-In primary school, my parents placed me in an international school in Houston,
-specifically the British School of Houston. There I came to learn and
-incorporate the community values there. 
+In primary school, my parents placed me in an international school, the British
+School of Houston. There I came to learn and incorporate the community values
+there. 
 
-- Extreme Politeness
+- Politeness and Gentility
 - Self Deprecating Humor
 - Penchant for the absurd
 - Family loyalty
 
 These norms carried me through my childhood, with a special focus on humility.
 I was (and still am to be clear) overweight and out of shape. This lack of
-physical fitness could be seen in my chubbyness and my terrible performance in
+physical fitness could be seen in my chubbiness and my terrible performance in
 physical education classes. I was consistently the last person in every test of
 strength or endurance. This is not to say you should pity this child, as I only
 bring it up to suggest how radically okay I was (or learned to be) with the
@@ -167,58 +163,60 @@ I learned firsthand I would not excel in all things.
 This is the essence of my humility. I will not be the best in all things. I
 will not even be the best at any one thing. There are always people who are
 better. The key is in understanding yourself as imperfect. Radically accepting
-who you are, and striving to do better in what ways you can. It just took this
-fat kid "running" a 100 m sprint in several minutes to learn it.
+who you are, and striving to do better in what ways you can. I knew that I was
+unfit, but that it was not a character failure, it is a stepping stone on the
+way to being better. It just took this fat kid "running" a 100 m sprint in
+several minutes to learn it. 
 
 ## Adolescence: Building Character in "The Woods"
 
 At the age of 14, with both of my older sisters having started their college
 journeys. My parents wanted to move us to Colorado to better help with their
-quality of life, deeply improving my Dad's allergies. 
+quality of life and improve my Dad's allergies. 
 
-### Antifragility: Resilience built through Adversity
+### Anti-fragility: Resilience built through Adversity
 
 I was enrolled in *Colorado Rocky Mountain School*, and that August I started
 in the Wilderness Orientation program. This was without a doubt the hardest
 physical challenge of my life. For wilderness orientation, we are taken out in
 groups of 7-9 incoming students and 2 faculty members and 1 student leader. The
 first three days were spent doing trail maintenance. The last 7 were spent
-backpacking in the remote colorado wilderness. 
+backpacking in the remote Colorado wilderness. 
 
-Keep in mind, I was an out of shape fat kid from Houston Texas. I had never
-been challenged physically like this at all. I could count on one hand the
-hikes I had done before this. To this day, I am deeply ashamed of how the
-leaders needed to ferry my pack so that I could simply make it up the hill
-unweighted. On the last day of the trip, water had dripped through the tarp
-(that I had poorly set up myself) onto my chest as I slept. I woke up cold and
-broken. We were then promptly forced to get out of our sleeping bags, wake up
-and tackle the new and final day of the trip. When I finally got out of my bag,
-I was bawling. My group was visibly worried for me, crying as I laced up my
-hiking boots. I balanced out again, and this same story played out a few more
-times in my outdoor experiences. Later that semester, I was in a canoe with a
-classmate failing miserably to ferry our boat across only the most moderate of
-rolling river. I cried out that I was trying my hardest, and it wasn't good
-enough. 
+Keep in mind, I was a fat kid from Texas. We drove from air conditioned box to
+air conditioned box. I had never been challenged physically like this at all. I
+could count on one hand the hikes I had done beforehand. To this day, I am
+deeply ashamed of how the leaders needed to ferry my pack so that I could
+simply make it up the hill unweighted. On the last day of the trip, water had
+dripped through the tarp (that I had poorly set up myself) onto my chest as I
+slept. I woke up cold and broken. We were then promptly forced to get out of
+our sleeping bags, wake up and tackle the new and final day of the trip. When I
+finally got out of my bag, I was bawling. My group was visibly worried for me,
+crying as I laced up my hiking boots. I balanced out again, and this same story
+played out a few more times in my outdoor experiences. Later that semester, I
+was in a canoe with a classmate failing miserably to ferry our boat across only
+the most moderate of rolling river. I cried out that I was trying my hardest,
+and it wasn't good enough. 
 
 The thing is, after you are broken so many times by intensely difficult
 experiences, you learn to handle it. You learn to roll with the punches. After
 enough of roughing it in the woods, you learn to get rougher. Nasim
-Nicholas-Taleb writes about the concept of **Antifragility**, when a system
-performs better under stress. I feel like this is what controlled discomfort
-did for me. I have felt at my best in a stressful moment on a backpacking trip.
-I have felt clarity when I have to make our team not lost, administer aid for a
-hypothermic trip member, or cook dinner for my crew so they can get in the tent
-and warm up. There is a unique energy to these make or break moments. In a
-modern world of absolute luxury (at least for those with my privilege) you
-break out of the "first world problems" by leaning in to the uncomfortable and
-difficult in the woods. These experiences calibrated what I view as truly
-stressful, and made into a more emotionally stable person.
+Nicholas-Taleb writes about the concept of **Anti-fragility**, when a system
+performs better under stress. Discomfort forced me to become more resilient. I
+have felt at my best in a stressful moment on a backpacking trip. I have felt
+clarity when I have to make our team not lost, administer aid for a hypothermic
+trip member, or cook dinner for my crew so they can get in the tent and warm
+up. There is a unique energy to these make or break moments. In a modern world
+of absolute luxury (at least for those with my privilege) you break out of the
+"first world problems" by leaning in to the uncomfortable and difficult in the
+woods. These experiences calibrated what I view as truly stressful, and made
+into a more emotionally stable person.
 
 ### Lessons from Antiquity: Lao Tze and "The Way"
 
 Over the summer before my sophomore year, my dad handed me a translation of the
-Tao Te Ching, a work of chinese poems that worked as a textual basis for the
-Taoist tradition. The rough translation of the title is the "Book of the Way".
+Tao Te Ching ("Book of the Way"), a work of Chinese poems that worked as a
+textual basis for the Taoist tradition.
 
 The primary themes are all about stepping back, listening to the world, and
 acting along the path of least resistance. There are amazing sections which
@@ -263,33 +261,34 @@ this period of change that is puberty. This narrative is fundamentally
 different than the mainstream western ideals. Seek not success, or, better yet,
 seek not, for you may find success as a side effect of living the good life. 
 
-There may yet be faults in the gentle approach, but as a growing boy, with
-culture that leans towards trying to be a **Big Man**, it was a deeply useful
-moral reference text for me.
+These poems still form the basis for my ethical traditions to this day, and,
+while are deep faults in the gentle approach, as a growing boy, with culture
+that leans towards trying to be a **Big Man**, it was a deeply useful moral
+reference text for me.
 
 ### Lessons from Antiquity: Ancient Greece
 
-The liberal arts program at my school had a deep love for the classical period.
-I've included some of the lessons from then that have most served as guiding
-models for my behavior.
+The liberal arts program at my school had a love affair with the classical
+period.  I've included some of the lessons from then that have most served as
+guiding models for my behavior.
 
 #### Arete: Fulfilling Your Potential
 
-The pre-socratics had this beautiful idea of measuring virtue. They knew that
+The pre-Socratics had this beautiful idea of measuring virtue. They knew that
 people were born in fundamentally different circumstances. They knew that an
-enslaved serf could not rise to the same heights as a landed gentry. They
+enslaved serfs could not rise to the same heights as landed gentry. They
 defined Arete as this proportion of your own potential that you achieve. If you
 have less potential than someone with more privilege, but you actualize all of
 your potential and they actualize half of theirs, you have cultivated more
 virtue.
 
-This was a great introduction to concepts of privilege and inequality in the
-modern world. It allowed me (a white cis-het male) to avoid the pitfalls of
-wondering why other people weren't doing as well as I did. It was much like Ben
-Sands spoke at the 36 hours at Duke event. He said that he would much prefer
-someone to work their way out of an impoverished slum and change the world,
-but the barriers to that are so fundamentally high, that we do a disservice to
-those people by not capitalizing on our own potential. 
+Arete introduced concepts of privilege and inequality in the modern world. It
+allowed me (a white cis-het male) to avoid the pitfalls of wondering why other
+people weren't doing as well as I did. Much like Ben Sands spoke at the
+36 hours at Duke event, We would much prefer someone to work their
+way out of an impoverished slum and change the world, but the barriers to that
+are so fundamentally high, that we do a disservice to those people by not
+capitalizing on our own potential to help. 
 
 I interpret this now as a call to action for those who won the birth lottery to
 be placed in my socio-ethno-political class. If we do not actualize our
@@ -305,13 +304,13 @@ spurring the people of Athens to be better, by asking the hard questions, by
 being a deeply annoying person, by questioning and laying bare their
 fundamental beliefs. He was so stubborn, that rather than apologize and pledge
 to bother people less, he leaned in and took the death penalty, a glass of
-hemlock.
+poison hemlock.
 
 Sometimes I feel like the biting fly, and sometimes I feel like the Horse's
 buttock. I'm no Socrates. He alienated so many of his countrymen. To this day I
 still wonder when to bite down on someone's idea and when to let it go. Lao Tze
 got to me first, teaching me to be gentle and bend rather than steadfast and
-bite. Yet sometimes I wish I had the moral courage of Socrates to so stand by
+bite. Yet I often wish I had the moral courage of Socrates to so stand by
 his principles as to throw his life on the line.  
 
 ### Lessons from Antiquity: Roman Stoicism
@@ -328,7 +327,7 @@ In his work, Seneca makes the connection that just in the way that money, when
 spent wisely and frugally, lasts longer so too does the time in our days. We
 must wisely and deliberately spend our time throughout our days so that we may
 do the most with them. It seems obvious now, but to sophomore year George,
-these words were gold. He wanted so much to improve, and so he learned to sieze
+these words were gold. He wanted so much to improve, and so he learned to seize
 the day and do that which he would most benefit. 
 
 This had a shadow side however. Living deliberately is not cost free. It takes
@@ -355,27 +354,27 @@ Aurelius' "Meditations".
 > that thou wert born, that thou mightest enjoy pleasure? 
 
 We learn that even Marcus Aurelius, leader of the Roman empire, had trouble
-getting out of bed every morning. Questioning his purpose and why he would
+getting out of bed in the morning. Questioning his purpose and why he would
 struggle to cast off his blanket. He contends that it is his nature to work,
 and that failure to work in the morning is a failure to retain integrity (self
 alignment with his own nature).  
 
 Often when I am procrastinating an assignment, or hesitant to get out of bed,
 the motivation I need to here is not that my day will be easy, but that it will
-be truly difficult but I must complete it anyway. That day I woke up wet and
+be truly difficult and I must complete it anyway. That day I woke up wet and
 weary on my Wilderness Orientation, what got me out of bed was knowing that in
 order to end the trip, I needed to get up and get going. 
 
 ### Lessons from Modernity: Positive Existentialism
 
 Although both my parents believed in God and had been raised as Baptist and
-Catholic respectively, I was not raised in a religious tradtion. I had never
+Catholic respectively, I was not raised in a religious tradition. I had never
 had that proclivity for existential crises that many others struggle with when
 faced with a lack of objective meaning in their lives. I knew that I would
 die, but I have always been agnostic, unsure of what lays beyond, preferring to
 act as ethically as I can and roll the cosmic dice. 
 
-I was lucky that in my senior year, before I had really drilled down on any
+I was lucky that in my senior year, before I had really doubled down on any
 existential dread, I was exposed to Eastern and Western philosophical
 traditions in respective classes. These classes were offered within the same
 semester, both taught by the same teacher, Mark Clark (who was also one heck of
@@ -389,7 +388,7 @@ my best way to live my life. These classes helped me to formulate my worldview
 as a kind of deeply positive nihilism. Combined with the curriculum of Roman
 stoicism, I became a deeply happy pessimist. Camus showed me the absurdity of
 life, and I chose to laugh and get on with it. Sartre showed me the radical
-freedom I had in my life. Simone de Beauvoire showed me how to be comfortable
+freedom I had in my life. Simone De Beauvoire showed me how to be comfortable
 and embrace the ambiguity at the heart of life. There's no fundamental bedrock
 to base our morality on, but it didn't stop me from being moral, only called
 upon me to make my own morals and act in the way I think is best. 
@@ -417,14 +416,14 @@ weight in gold.
 
 ### Lessons from the Community: Accountability To The Collective
 
-My school was founded by three people, deeply influenced by quaker thought.
-Every week we had all school meetings in an upcycled barn. These would break
+My school was founded by three people, deeply influenced by Quaker thought.
+Every week we had all school meetings in an up-cycled barn. These would break
 down into:
 
 1. Decisions
 2. Apologies
 3. Thank You's and Shout Out's
-4. Announcments
+4. Announcements
 
 The focus was on putting the community above yourself. That even if you failed
 you can still be held accountable and helped back along the noble path by your
@@ -434,13 +433,21 @@ Our school nurtured a community of interdependence. Our day broke down into
 three categories: school, sport, and work. In sport, in our outdoor excursions,
 we would need to rely on each other to belay us when climbing or throw a rope
 and catch our kayak when we bail out of our boats in a rapid. In work, we all
-pitched in to improve and maintain our school; I helped maintain the schools
+pitched in to improve and maintain our campus; I helped maintain the schools
 fleet of activity buses, and my friends worked blowing our cafeterias glassware
 or throwing the clay in our communal mugs; Some even worked in the kitchen
 preparing our meals, or in the garden supplementing our diets with fresh
 produce. It was, in no uncertain terms, quite the hippie-dippie commune. We
 relied on each other at that school, and it set me on the path towards serving
 my community.
+
+In our classes, we addressed teachers by first name, recognizing them not just
+as leaders but as community members. Classes were taught in the Socratic
+tradition, where students were encouraged to speak up and ask "dumb" questions.
+Those same teachers took us kayaking, or helped us garden, or played music with
+us at all school concerts. This was instrumental in my later ability to relate
+as friends to adults, as well as give me the baseline confidence to pipe up and
+ask when I don't understand.
 
 ## University: A Sobering Climb towards Maturity
 
@@ -452,12 +459,13 @@ thoughtful and intelligent people.
 
 ### Success At Duke
 
-I hesitate to admit it in writing, but I am evaluated as "smart". What does
-this mean? To me it means that I have a winning combination of radical
-enthusiasm for learning, the ability to synthesize new ideas, and break down
-problems into small easier to tackle problems. This has allowed me to attain
-fairly substantial academic success at Duke without destroying myself. I still
-spend many a Friday night in the library, but I enjoy it. 
+I hesitate to admit it in writing, but my communities and close ones have
+deemed me "smart". What does this mean? To me it means that I have a winning
+combination of radical enthusiasm for learning, the ability to synthesize new
+ideas, and break down problems into small easier to tackle problems. This has
+allowed me to attain fairly substantial academic success at Duke without
+destroying myself. I still spend many a Friday night in the library, but I
+enjoy it on it's own merit, not for a grade. 
 
 When I got to Duke my freshman year, I found that I excelled in my classes
 with, to me at least, moderate effort. I was incredibly lucky to find a domain,
@@ -479,18 +487,18 @@ this honest self awareness of my place in the grand scheme of things.
 
 Let me say that I was, and still am, deeply problematic. I only have the words
 to describe my own immaturity at this point of my life from the work I have
-done and others have done alongside me that help contextualize this. On PWILD,
-on the first night, I told a series of dirty jokes that were deeply
-inappropriate and must have made my fellow crew deeply uncomfortable with me.
-Thinking about it now, I feel deeply ashamed of myself for this. The trip went
-on, and I was exposed to the struggles that my fellow crew had. On the tail
-side of the trip, I had made a misogynist and objectifying comment about a
-"Wild Women's Retreat" event we were passing by, and a staffer called me out
-for it. I couldn't find the words to respond. They were right, and I was being
-hurtful. I sat in silence and licked my wounds. This was the start of my change
-for the better, but even getting better cannot erase the past. When I think
-about how trash I was and what progress I have made it only motivates me to be
-even more thoughtful, kind, and nuanced in my language.
+done and others have done alongside me. On PWILD, on the first night, I told a
+series of dirty jokes that were deeply inappropriate and must have made my
+fellow crew deeply uncomfortable with me.  Thinking about it now, I feel deeply
+ashamed of myself for this. The trip went on, and I was exposed to the
+struggles that my fellow crew had. On the tail side of the trip, I had made a
+misogynist and objectifying comment about a "Wild Women's Retreat" event we
+were passing by, and a staffer called me out for it. I couldn't find the words
+to respond. They were right, and I was being hurtful. I sat in silence and
+licked my wounds. This was the start of my change for the better, but even
+getting better cannot erase the past. When I think about how trash I was and
+what progress I have made it only motivates me to be even more thoughtful,
+kind, and nuanced in my language.
 
 ### Being Criticized: The Importance of Community Call Outs
 
@@ -502,8 +510,8 @@ me. These people I, to this day, deeply admire and thank for their work in
 making me a better person.
 
 It's true for so many men of my own age, and I was only lucky enough to be
-paying attention at those moments of ripeness. The most progress and change I
-have made morally come from those evenings where, following a call out earlier
+paying attention at those moments of ripeness. The most moral progress and
+change I have made come from those evenings where, following a call out earlier
 that day, I was forced to entertain the idea of my misgivings. I was only lucky
 enough to be open to alternatives. The combination of my own humility, with the
 (far more important) call to be better by those I admired in my community
@@ -512,7 +520,7 @@ helped me to that sobering climb towards maturity.
 ### Duke Men's Project
 
 In my junior year at Duke, I joined the Duke Men's Project, a brand new (at the
-time) intiative to make a community of men who would help teach each other to
+time) initiative to make a community of men who would help teach each other to
 be more moral and aware people. We met weekly at the women's center on east
 campus to discuss issues underpinning systemic inequality and
 intersectionality. It was a tremendously useful learning experience for me.
@@ -522,15 +530,15 @@ word "woke". When we call someone woke, I feel that we are turning awareness
 into moral points. By splitting the world into people who are woke or not, we
 make two mistakes: people who are woke are sufficiently good and do not need to
 continue learning, and people who are not woke know less about hardship and
-struggle than those who are. To say that we are woke is to lose the fact that
-we are all crooked timber, stumbling towards being better. It's like a
-commoditized moral license. Once you are woke, then you can sit back and
-relax. Awarness is useless without action. Guilt is useless if it does not spur
-you to change the structures that you feel guilty about. Just because we are
-good in one area, gives us zero free passes in other areas.  
+struggle than those who are. "Woke" is fixed mindset. To say that we are woke
+is to lose the fact that we are all crooked timber, stumbling towards being
+better. It's like a commoditized moral license. Once you are woke, then you can
+sit back and relax. Awareness is useless without action. Guilt is useless if it
+does not spur you to change the structures that you feel guilty about. Just
+because we are good in one area, gives us zero free passes in other areas. 
 
 I bring this up because I feel that, even as we tried for this not to happen,
-the Men's project encouraged allyship as an identity. That now that we've done
+the Men's project encouraged ally-ship as an identity. That now that we've done
 the Men's project, we were woke and everything was amazing. The Men's project
 gave me the words and perspective to only start the path towards being a better
 person. It was the first step on a never ending personal journey towards being
@@ -555,8 +563,9 @@ what drives me to live the good life. If there is no judgment, then I should
 pursue my own goals ruthlessly and selfishly. I am reminded of the words of Rabbi
 Hillel the Elder
 
-> If I am not for myself who is for me? And being for my own self what am I?
-> If not now when?
+> If I am not for myself who is for me?  
+> And being for my own self what am I?  
+> If not now when?  
 
 We tread a fine line with our time in this world, between acting in the service
 of ourselves and acting in the service of others. My actions, if they are
@@ -564,23 +573,23 @@ ethical, should not be because of a fear of judgment or desire of heavenly
 reward. My actions in the service of helping others and being true to myself
 must be justified by a consistent goal. 
 
-The key to all of this is in my **ripple**. The benefits I make on this world, I
-hope, will last in the signal of kindness of others. There will come a day when
-my name will be forgotten, everyone I know long dead, but the people I help and
-the people they help and they help will continue. My benefit to the world, my
-*raison de etre* is in the ripple of goodness that I will create to my highest
-ability in my own sphere of influence.  
+The key to all of this is in my **ripple**. The benefits I make on this world,
+I hope, will last in the signal of kindness of others. There will come a day
+when my name will be forgotten, everyone I know long dead, but the people I
+help and the people they help and they help will continue. My benefit to the
+world, my *raison de etre* is in the ripple of goodness that I will create to
+my highest ability in my own sphere of influence.  
 
 ### Focus on Community
 
 I live in the domain of the practical and the human. I want to be realistic
 about the benefit I can make in the world. This does not mean I should
-artifically limit the scope of my benefits, but that I focus on helping those
+artificially limit the scope of my benefits, but that I focus on helping those
 within my sphere of influence. 
 
 One of my life goals is to have a deep connection with my tribe. I don't mean
 this in a self secluding way. The connotation of focusing on your community can
-come across as a dogwhistle for putting your own people first. When I say tribe
+come across as a dog-whistle for putting your own people first. When I say tribe
 I mean a responsibility to my people across ethnic, class, religious, and
 political lines. I want to seek out those who challenge me to be better and
 think better. I want to make a place in my life for those people, and I want to
@@ -595,21 +604,21 @@ shown us the dire straits that many people in this world live in. We often lose
 our will to act, to overcome the bystander effect, when we are so far away from
 the problems that people face. Simply put, we cannot live in our progressive
 western democracy, go to work in literal towering crystal spires, and
-constantly think about "starving african children or whatever". 
+constantly think about "starving African children or whatever". 
 
 There is huge cognitive dissonance here. If it meant getting our shoes dirty,
 we would save a drowning child. If it meant getting on a plane and flying
 across the world, we would still save a drowning child. From both of these toy
 examples we see that the duty to act is always there, regardless of moderate
 personal damage (ruining clothes) or distance (flying there). How do we get
-from the high level ethical breakdown in which we are honorbound to act, to
+from the high level ethical breakdown in which we are honor-bound to act, to
 what is implemented as fundamental apathy?
 
 Don't get me wrong, I am not condemning the very human focus on the local over
 the global, but one of my personal goals is to act efficiently in the service
 of global issues. Ergo, my life mission adds two intertwined goals. First, I
 want to donate large amounts of money to extremely effective charities
-(malaria and schistosomiasis intiatives), and, second, I want to share this
+(malaria and schistosomiasis initiatives), and, second, I want to share this
 approach to charity, that we should prioritize giving to extremely effective
 charities and that we have a duty to act in what ways we can.
 
@@ -623,7 +632,7 @@ be. Solving cool problems for smart people.
 
 I am a toolmaker. I seek to build the tools that enable others to maximize
 their potential. In this way, I also establish my ripple. I want to smash the
-barriers that people have by enabling them to take advantage of humankinds
+barriers that people have by enabling them to take advantage of humankind's
 shared incredible computational power. A life of service as a humble toolmaker,
 is a life I will not regret.
 
@@ -647,7 +656,7 @@ discussion will muddy the waters (if they are not already fevered ramblings).
 
 ### What is Success?
 
-Success is the feeling we get when we take pride in the fruits of our labors.
+Success is the feeling we get when we take pride in the fruit of our labor.
 
 As we've covered in class, a sufficient second order approximation of success
 can be in the following components:
@@ -674,7 +683,7 @@ profit did your project produce for the company? How fulfilling is it to see
 that student you helped turn around and ace her computer architecture midterm?
 
 Legacy is how your success lasts. When you create your sculpture, your magnum
-opus, is it made of q-tips and twine? or wraught steel and hard stone? How will
+opus, is it made of q-tips and twine? or wrought steel and hard stone? How will
 your success survive and thrive? We want our successes to not be destroyed in
 front of us. We want the code we write to be a pivotal benefit to a system that
 will keep chugging long after you may have left the company. 
@@ -693,7 +702,7 @@ here.
 
 Legacy and significance are harder nuts to crack. You can imagine why the
 average Duke student may not focus on these as components of her success.
-They're far less *real* to us. They require a worldy wisdom to see as products
+They're far less *real* to us. They require a worldly wisdom to see as products
 of our labor. 
 
 Measuring significance is often not up to us, but on the people who we work
@@ -702,8 +711,8 @@ seeing our actions' significance.
 
 Our legacy is not something that we can see moving forward, these dots are only
 connected looking back on our life's random walk. Legacy is like concrete. It
-get's stronger the longer it has set, reaching peak strength years after the
-pour. The roman sewers and aquaducts were lasting success, but we know this
+gets stronger the longer it has set, reaching peak strength years after the
+pour. The roman sewers and aqueducts were lasting success, but we know this
 only long after their society collapsed. Time has the final word on our legacy.
 
 ### Why chase it?
@@ -734,7 +743,7 @@ The simplest way to measure your happiness is to count the frequency of
 *butterflies*. It is that fire in your belly that speaks to you. It does lead
 to a bit of experimental error, for when we look for the ways that happiness
 appears in our life, we open ourselves to more of it, overestimating its base
-occurence. 
+occurrence. 
 
 It is easy, for most, to recognize ecstatic moments, but it is oft harder to
 recognize effective contentment. The feeling of being more than alright with
@@ -760,7 +769,7 @@ different ratios.
 Paul Tillich, in his seminal work on the phenomenology of religion "The
 Dynamics of Faith", spoke of our religious motivation engine. Humans crave
 ultimate fulfillment, to do so we engage with our ultimate concern and the risk
-that our concern is idolatrous (i.e. worshipping a false idol and receiveing no
+that our concern is idolatrous (i.e. worshiping a false idol and receiving no
 such fulfillment). Meaning is our fulfillment produced by our success.
 
 On first glance, it seems that meaning could be represented by the success
@@ -787,7 +796,7 @@ to yourself, the answer is in your gut.
 These answers must be getting boring to you by now. It's the same as it always
 has been. We chase meaning because the feeling of being fulfilled is a
 different kind of wonderful. It is the last fuel in our motivation engine a
-distillate effect of refining our sucess through a focus on fulfillment.
+distillate effect of refining our success through a focus on fulfillment.
 
 # Moral Fiber
 
@@ -837,7 +846,7 @@ The biblical passage:
 
 > Love thy neighbor as thyself
 
-is a fundamental moral tenet of western society, and it harkens back to the
+is a fundamental moral tenet of western society, and it hearkens back to the
 words of Rabbi Hillel the Elder or the line from poem #8 from the Tao Te Ching:
 
 > Love the world as your self; then you can care for all things.
@@ -863,7 +872,7 @@ Tomb, summarized below.
 > 9. Do not get sunburned
 > 10. Do not get killed
 
-These are very glib, but they get at heart of what expedetionary behavior
+These are very glib, but they get at heart of what expeditionary behavior
 means. It is a focus on putting the group above yourself. If you want to
 survive an expedition you need to rely on your team. 
 
@@ -882,7 +891,7 @@ way.
 
 At the end of the day, when none of my values can give me the clarity I need to
 make a decision, I rely on the brutal calculus of maximizing social good, and
-minimizng social pain.
+minimizing social pain.
 
 ### Moral Compass
 
@@ -922,7 +931,7 @@ and for my "Top Values by Behavior":
 4. Loyalty
 5. Achievement
 
-Scratching off Achivement as an amoral value, I get that the way I act is
+Scratching off "Achievement" as an amoral value, I get that the way I act is
 deeply focused on others. 
 
 I have in my head this set of consistent guidelines for ethical behavior, yet
@@ -971,7 +980,7 @@ of expedition behavior. Unless it is absolutely necessary, don't complain. In
 the terminology of wilderness first aid, "Don't create another patient".
 
 **Do not be a burden on others. It is healthy to share and connect, but do not
-overrely on the emotional and physical labor of others**
+over-rely on the emotional and physical labor of others**
 
 #### Be kind
 
@@ -1057,7 +1066,7 @@ the worst parts of my moral behavior, and where I am still deeply ashamed of.
 I consistently feel uncomfortable standing up for my values in many of my
 personal relationships. I consistently fail to be honest when it comes to
 disappointing someone I care about. In many social groups, I find myself being
-a value chameleon, camoflaging myself to fit in with the dominant ideology. It
+a value chameleon, camouflaging myself to fit in with the dominant ideology. It
 is so fundamentally hard to rip the band-aid, get it off your chest. 
 
 I am king of the white lie. This is the shadow of not wanting to be a burden.
@@ -1081,9 +1090,14 @@ only feel the damage I do to myself when I act in this way.
 
 The only strategy I know of is to build my moral courage like a muscle. To
 start it off slowly with minor skirmishes and confrontations, test it and
-strecth it, until it can hold its own in the wild. I so deeply want to be a
+stretch it, until it can hold its own in the wild. I so deeply want to be a
 stronger person, to have that "heart of a lion" that I admire so much in
 others. I am agape to how they built that strength.
+
+I am aware enough to realize that since my community affects my values, which
+in turn affect my behavior, that my community determines my behavior. I need to
+find people who challenge me to be better, who won't accept a George without
+the requisite integrity.
 
 Even if I am so ready to help others, so eager to break the barriers in front
 of other's success, how can I help them when I am incapable of speaking truth
@@ -1093,12 +1107,12 @@ I only know those barriers on the way to moral courage. I know that while I
 still seek out the approval of others with such fervor that I will never reach
 that point. I know that while I place the health of a relationship unilaterally
 above my moral fiber I will never reach that point. I know that while I
-maintain a lie, even superfically, so that someone's feelings will not be hurth
+maintain a lie, even superficially, so that someone's feelings will not be hurt
 I will never reach that point.
 
-**When I die, do I want my eulogy to say "He was a nice guy, loved by all" or do
-I want them to say "He acted with integrity, resolute and steadfast for what he
-knew was right"?**
+**When I die, do I want my eulogy to say "He was a nice guy, loved by all" or
+do I want them to say "He acted with integrity, resolute and steadfast for what
+he knew was right"?**
 
 # Amoral Fiber 
 
@@ -1118,7 +1132,7 @@ I've made some cool stuff in my life:
 - EMP generator that can shut off small electronics.
 - Standing desk from pallet wood for my freshman dorm room 
 - Programs to help my classmates with grunt work on our final projects
-- Papercraft masks for halloween
+- Papercraft masks for Halloween
 - Metal and glass flower pot sculpture
 
 These fulfill my creative urge. Literally the desire to create, but also the
@@ -1142,7 +1156,7 @@ grapple with a novel concept. I enjoy more than anything sharing my knowledge
 with others. I love seeing the glint of clarity and understanding in someone's
 eyes just as much as experiencing it myself.
 
-Beyond academic learning, I value self-knowledge. We harken back to the words
+Beyond academic learning, I value self-knowledge. We hearken back to the words
 of Socrates: 
 
 > The unexamined life is not worth living 
@@ -1258,7 +1272,7 @@ salt.
 ### The Shepard and The Drove
 
 It is somewhat problematic to refer to people as sheep, but what I want to
-focus on is the approach of the shepherd. The shepard drives the flock. Another
+focus on is the approach of the shepherd. The Shepard drives the flock. Another
 name for a sheep collective is literally a **Drove**. What does this mean for
 the community. It means the sheep are driven by the stick. The sheep are in a
 state of stress, forced to move to the places the shepherd wants them to. 
@@ -1312,12 +1326,12 @@ forward. In the words of Joseph Campbell, as I join the adult world I switch
 from a relationship of dependence to a relationship of independence, and
 finally to a relationship of people depending on me. 
 
-I am 23, I have spent my last 23 years in education system, with only a brief
-foray into working as a coop student (6 months) and interning (2 months). I
-have 8 months of reasonable adult experience. I sit at the precipice of a sea
-change, a complete shift to self reliance where I no longer depend on my
-parents income nor the communities built up by my schools and childhood
-interests. This is a defining decade for the man I want to become.
+I am 23, having spent my last 23 years in the education system, with only a
+brief foray into working as a coop employee (6 months) and interning (2
+months). I have 8 months of reasonable adult experience. I sit at the
+precipice of a sea change, a complete shift to self reliance where I no longer
+depend on my parents income nor the communities built up by my schools and
+childhood interests. This is a defining decade for the man I want to become.
 
 Yet I can't help but remember Robert Frost's poem, "The Road Not Taken". The
 poems protagonist comes to a fork in the road, and chooses a path. In what is
@@ -1346,7 +1360,7 @@ and random happenstance. It is a watershed moment, for the communities that I
 find and make my place in define my behavior and my behavior defines my values.
 
 The question is what do I want out of my community? The same I have wanted out
-of my Duke and CRMS communites. Now, no one community will fit all of these
+of my Duke and CRMS communities. Now, no one community will fit all of these
 criteria, and so it will be up to me to make time for a mix of those groups
 that will add up to where I want to be.
 
@@ -1364,19 +1378,19 @@ intertwined with the question of who I want to be. The communities I belong to
 could make me stronger but colder, or warmer but weaker, or yet some non
 dichotomous combination of everything. 
 
-The higher level goal of finding a community, is that by surrounding myself
-with good people, I in turn am called upon to be good myself. 
+**The higher level goal of finding a community, is that by surrounding myself
+with good people, I in turn am called upon to be good myself.**
 
 ### Professional Development and Recognition
 
 As mentioned many (perhaps too many) times in this map, I want to do good work.
 It's even better if I can be recognized by my peers that my work is good. It
 just gives me butterflies to have my work appreciated. I mean, this stuff is
-dreadfully obvious, unnecesary to say even. The question here is how to balance
+dreadfully obvious, unnecessary to say even. The question here is how to balance
 personal satisfaction in my work, external evaluation of my work, and time
 investment taken to complete it. I value achievement, and in a work environment
 that short-circuits my brains rewarding logic, I could easily overwork or
-overprioritize achievement in my twenties. It would be exceedingly easy for me
+over-prioritize achievement in my twenties. It would be exceedingly easy for me
 to put my head down, work hard, and wake up 7 years down the road, even having
 made it "up" the technical ladder, but having made little to no progress on the
 other goals that I value. 
@@ -1393,8 +1407,8 @@ ways moving forward.
 I have the tools in my repertoire to get better at my craft. I have spent the
 past 4 years becoming a better programmer and engineer. I will spend the rest
 of my working life building and developing my "hard" skills. I love to read
-technical manuals and textbooks. These strategies are, in my opinion, boring,
-but I'll quickly list them out for completion.
+technical manuals and textbooks. These strategies are, in my opinion,
+**boring**, but I'll quickly list them out for completion.
 
 - Keep pace with current technology
     - Read about cutting edge practices
@@ -1408,8 +1422,8 @@ but I'll quickly list them out for completion.
 By the time I am 30 I want to be able to:
 
 - Squat 300 pounds
-- Deadlift 400 pounds
-- Do ten pullups in a row
+- Dead-lift 400 pounds
+- Do ten pull-ups in a row
 - Be able to run 5 kilometers 
 
 Currently I am:
@@ -1429,7 +1443,7 @@ effects of my poor fitness under my young *joie de vivre*, but that will age as
 I do. I want to live a good life. That means I need to have the energy and
 liveliness to tackle my day at any age. It comes down to Newton's Laws, an object in motion stays in motion and an
 object at rest stays at rest unless acted upon by another object. When I see
-the quality of my life in the next ten, twenty, fourty years I begin to see the
+the quality of my life in the next ten, twenty, forty years I begin to see the
 negative effects my health will produce in me. I am wasting my potential if I
 do not get to a minimum level of health to see my goals through to the end. I
 can do so much more good if my life is not 30% shorter. 
@@ -1452,7 +1466,7 @@ face, so that I can be better equipped to solve their issues.
 
 I need to be better at the soft (but still absolutely difficult) skills of
 people management, interaction, and negotiation. In turn, I hope this wider
-skillset can give me the power to make key benefits outside of my career for
+skill-set can give me the power to make key benefits outside of my career for
 the things that I most value. 
 
 # Implementation: 3-year plan
@@ -1533,7 +1547,7 @@ Charlotte.
 
 1. Join user groups and meetups (i.e. professional development communities in
    tech)
-2. Find communities of shared interests (board games, makerspaces, public
+2. Find communities of shared interests (board games, maker-spaces, public
    gardens, etc.)
 3. Engage with the Duke network in Charlotte
 4. Authentically relate to my coworkers, going out of my
@@ -1553,7 +1567,7 @@ Charlotte.
 This deserves to be a little meatier than the other strategies. I am in the
 extremely lucky position to be employed by a company that cares about making
 local benefits in Charlotte. I can leverage their connections to non-profits in
-the area and make benefits for them using my skillset. So many groups have
+the area and make benefits for them using my skill-set. So many groups have
 amazing knowledge and expertise of the problems facing them, but lack a
 quantitative skill set to store and handle their data. My company would provide
 me with expertise and advice on how to serve these organizations in my own
@@ -1617,8 +1631,8 @@ Tresata is unsustainable for me to continue working. After this point, what
 should I do? I think I have a few options:
 
 - Education
-    - Business (mba)
-    - Technical (masters or phd)
+    - Business (MBA)
+    - Technical (masters or PhD)
 - Work
     - Private Sector Tech Company
     - A Non Tech Company in a Technical Role
@@ -1634,7 +1648,7 @@ how to hold on to the companions I build along my path.
 # Implementation: The next 3 seasons
 
 Now we come down to brass tacks. Here I will outline the strategies and
-opportuinities to face in my last semester at Duke and my move to Charlotte in
+opportunities to face in my last semester at Duke and my move to Charlotte in
 the Spring. I identify in the coming seasons is a process of refinement,
 expansion, and refinement. I hope to focus in on my classes and friends at
 Duke. Expand out to my work and new communities in Charlotte.
@@ -1663,9 +1677,9 @@ maximize my time with my friends.**
 
 ## Winter 2019
 
-This is when my work starts. January 17th is my start date. I want to hit the
+This is when my work starts. January 17Th is my start date. I want to hit the
 ground running. The first two months at Tresata I will be a part of their
-onboarding and training program, which will give me the time to build up my
+on-boarding and training program, which will give me the time to build up my
 skills and make productive contributions.
 
 In order to best fulfill my goals, I want my days at Tresata to be broken down
@@ -1696,7 +1710,7 @@ one tech professional or learning group.
 After the winter of expansion, I want to see what pans out. That may seem glib,
 but I mean it closer to the literal interpretation of the word "pan". My winter
 should be spent surveying the land and gathering sediment, putting in the work
-to mine relationships from the awkward territory of aquaintances. 
+to mine relationships from the awkward territory of acquaintances. 
 
 **The spring will be a time where I can pan out the sediment and search for those
 golden nuggets: people I mesh with, who challenge me and help me and I help in
@@ -1709,7 +1723,7 @@ the circumstances, decisions, and frameworks that have guided my life and made
 me into the man I am today.
 
 There are certainly things in this map I did not include for lack of my own
-memory, space constraints, and (in some instances) covering issues to personal
+memory, space constraints, and (in some instances) issues too personal
 for inclusion in a publicly available paper. If you notice one of these areas,
 I welcome you to seek me out and drill down on this in private conversation, as
 I would be happy to share one on one. 
@@ -1720,3 +1734,4 @@ here.
 
 Thank you for taking the time out of your day to learn a little about George.
 He's a work in progress, but always with emphasis on the progress.
+

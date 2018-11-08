@@ -7,7 +7,7 @@
 - Be stronger hearted, more capable of fighting for what I believe in
 - Make a ripple of generosity and helpfulness from the people I help
 
-## Great Job = Challenge + Community
+## Great Job = Challenge + Community  
 
 - Intellectually Challenging, to always be learning and applying new knowledge
   with like minded people
@@ -15,29 +15,21 @@
   community with my coworkers 
 - Flexible in when and where I work, so long as I am sufficient in
   accomplishing my goals
-- Sense of impact of work, that what I do either helps others or enables me to
-  help others.
+- What I do either helps others or enables me to help others.
 
 ## What I'm good at
 
-- Raw enthusiasm for learning and personal development (i.e. *joie de vivre*)
+- Raw enthusiasm for learning, critical feedback, and personal development
 - Extroversion and genuine interest in the well-being of others.
 - Large sense of responsibility for group settings
 - Personal resilience to difficulty, enthusiasm in the face of discomfort
-- Gregarious and loud, extremely willing to ask dumb question
-- Reflectiveness and unbridled willingness to seek critical feedback and
-  surround myself with those willing to challenge me and help me grow
 
 ## What I suck at
 
 - Interpersonal soft skills (e.g. empathy, group dynamic awareness)
 - Discipline to pursue goals that don’t itch curiosity (i.e. not fun)
-- Shadow side to my volume is that I can unintentionally rollover quieter folks
-- Shadow side to my enthusiasm is that need a fuel that is less capricious
-  when handling tasks that are not engaging
-- I crave positive attention and often make group situations about me. I love
-  the sound of my own voice, and need to de-center myself in group settings.
-- I can often neglect my morals to fit in with the crowd or personal friends
+- I crave positive attention and often make group situations about me
+- I often neglect my morals to fit in with the crowd or personal friends
   better
 
 ## How I will be better eventually
