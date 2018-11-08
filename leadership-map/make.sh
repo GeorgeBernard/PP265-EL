@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Input
-NAMES='header one-page intro my-story life-mission success-happiness-joy moral-fiber amoral-fiber
+NAMES='header one-page my-story life-mission success-happiness-joy moral-fiber amoral-fiber
 leadership-qualities twenties 3-year-plan senior-year closing'
 
 # Processing

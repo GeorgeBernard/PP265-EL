@@ -10,7 +10,51 @@ These are the words that still echo in my life, the guiding perspective that I
 should take care of my friends and neighbors, that I should live a life of
 service to others.
 
-### Establishing Norms
+### Family Traits
+
+My personality, like most I assume, is deeply influenced by that of my family.
+Both my parents drive me to develop my:
+
+- Wit and Humor
+- Charisma
+- Generosity
+- Worldliness
+
+From my father, Collier, I most admire and try to emulate his:
+
+- Nerdy love for math and science
+- Diplomacy and desire to please others
+- Enthusiasm
+
+From my mother, Patti, I most admire and try to emulate her:
+
+- Intense care for my family and friends
+- Extraversion and a willingness to interact with everyone at their level
+- Raw moral courage and strong heartedness
+- Drive to succeed
+- Candor
+
+From my most older sister, Katy, I most admire and try to emulate her:
+
+- Drive to succeed
+- Intensity
+- Steadfastness and commitment to her goals
+- Kindness
+- Intelligence (which is huge but she would never admit this to you)
+
+From my less older sister, Alexi, I most admire and try to emulate her:
+
+- Empathy
+- Thoughtfulness
+- Easygoing nature
+- Creativity
+
+These are but windows to the multi-faceted people they are, but I am deeply
+grateful for the impact they have had and continue to have in my life. They are
+my mentors, friends, and confidants. I would not be half the person I am today
+without their influence.
+
+### Primary School
 
 In primary school, my parents placed me in an international school in Houston,
 specifically the British School of Houston. There I came to learn and
@@ -94,59 +138,35 @@ still give me chills to this day.
 
 Excerpts like this from Stephen Mitchell's translation, 
 
-> 8 
->
-> The supreme good is like water, 
->
-> which nourishes all things without trying to. 
->
-> It is content with the low places that people disdain. 
->
-> Thus it is like the Tao. In dwelling, live close to the ground. 
->
-> In thinking, keep to the simple. 
->
-> In conflict, be fair and generous. 
->
-> In governing, don't try to control. 
->
-> In work, do what you enjoy. 
->
-> In family life, be completely present. When you are content to be simply yourself 
->
-> and don't compare or compete, 
->
-> everybody will respect you. 
+> 8   
+> The supreme good is like water,   
+> which nourishes all things without trying to.   
+> It is content with the low places that people disdain.   
+> Thus it is like the Tao. In dwelling, live close to the ground.   
+> In thinking, keep to the simple.   
+> In conflict, be fair and generous.   
+> In governing, don't try to control.   
+> In work, do what you enjoy.   
+> In family life, be completely present. When you are content to be simply yourself   
+> and don't compare or compete,   
+> everybody will respect you.   
 
 and,
 
-> 13 
->
-> Success is as dangerous as failure. 
->
-> Hope is as hollow as fear. What does it mean that success is a dangerous as
->
-> failure? 
-> Whether you go up the ladder or down it, 
->
-> you position is shaky. 
-> When you stand with your two feet on the ground, 
->
-> you will always keep your balance. What does it mean that hope is as hollow as fear? 
->
-> Hope and fear are both phantoms 
->
-> that arise from thinking of the self. 
->
-> When we don't see the self as self, 
->
-> what do we have to fear? See the world as your self. 
->
-> Have faith in the way things are. 
->
-> Love the world as your self; 
->
-> then you can care for all things. 
+> 13   
+> Success is as dangerous as failure.  
+> Hope is as hollow as fear. What does it mean that success is a dangerous as failure?   
+> Whether you go up the ladder or down it,   
+> you position is shaky.   
+> When you stand with your two feet on the ground,   
+> you will always keep your balance. What does it mean that hope is as hollow as fear?   
+> Hope and fear are both phantoms   
+> that arise from thinking of the self.   
+> When we don't see the self as self,   
+> what do we have to fear? See the world as your self.   
+> Have faith in the way things are.   
+> Love the world as your self;   
+> then you can care for all things.   
 
 made me focus inward and critically examine my self.
 You can feel the humility and presence in this. This book inspired me to be
@@ -260,21 +280,179 @@ order to end the trip, I needed to get up and get going.
 
 ### Lessons from Modernity: Positive Existentialism
 
+Although both my parents believed in God and had been raised as Baptist and
+Catholic respectively, I was not raised in a religious tradtion. I had never
+had that proclivity for existential crises that many others struggle with when
+faced with a lack of objective meaning in their lives. I knew that I would
+die, but I have always been agnostic, unsure of what lays beyond, preferring to
+act as ethically as I can and roll the cosmic dice. 
+
+I was lucky that in my senior year, before I had really drilled down on any
+existential dread, I was exposed to Eastern and Western philosophical
+traditions in respective classes. These classes were offered within the same
+semester, both taught by the same teacher, Mark Clark (who was also one heck of
+a cross country skier). After a separate curriculum in the two classes for the
+first two thirds of the semester, both classes funnel into the synthesis of
+eastern and western thought into the modern eras existentialist literature. 
+
+There was something so motivating, so empowering, about hearing how there was
+no objective path, no objective meaning. It was up to me to decide for myself
+my best way to live my life. These classes helped me to formulate my worldview
+as a kind of deeply positive nihilism. Combined with the curriculum of Roman
+stoicism, I became a deeply happy pessimist. Camus showed me the absurdity of
+life, and I chose to laugh and get on with it. Sartre showed me the radical
+freedom I had in my life. Simone de Beauvoire showed me how to be comfortable
+and embrace the ambiguity at the heart of life. There's no fundamental bedrock
+to base our morality on, but it didn't stop me from being moral, only called
+upon me to make my own morals and act in the way I think is best. 
+
 ### Lessons from the Community: Friends That Promote You
+
+Starting high school, I found the friends that were immediately available. This
+section is not to make moral judgments about them. My two friends, names
+changed, Tom and Jack, I had met on wilderness orientation. They were very fun
+people and I loved spending time with them. I cared about them and they cared
+about me, yet I feel like the dynamic left a lot to be desired. I often felt
+like the funny whipping post. I felt like they often intentionally bothered me
+to get a rise out of me. By sophomore and junior year, I had grown tired of
+trying to rely on any deeper connection with them. Around sophomore year, I had
+gotten to know my now best friend, Tanner. What was different about my
+relationship with Tanner was how he promoted me. I felt like my goals were his
+goals and that made his goals my goals. To this day we are deeply loyal to each
+other. This experience, while not really dramatic, helped me isolate that I
+should not be "lazy" in finding friends. That I should seek out and work to
+surround myself with people that have my best interests in heart. Not to say I
+cannot be friends with people like Tom and Jack, we still talk and have fun
+together, but that I should not base my worth in their evaluations. I found a
+confidant in Tanner, and to this day that relationship has been worth it's
+weight in gold. 
 
 ### Lessons from the Community: Accountability To The Collective
 
+My school was founded by three people, deeply influenced by quaker thought.
+Every week we had all school meetings in an upcycled barn. These would break
+down into:
+
+1. Decisions
+2. Apologies
+3. Thank You's and Shout Out's
+4. Announcments
+
+The focus was on putting the community above yourself. That even if you failed
+you can still be held accountable and helped back along the noble path by your
+peers. 
+
+Our school nurtured a community of interdependence. Our day broke down into
+three categories: school, sport, and work. In sport, in our outdoor excursions,
+we would need to rely on each other to belay us when climbing or throw a rope
+and catch our kayak when we bail out of our boats in a rapid. In work, we all
+pitched in to improve and maintain our school; I helped maintain the schools
+fleet of activity buses, and my friends worked blowing our cafeterias glassware
+or throwing the clay in our communal mugs; Some even worked in the kitchen
+preparing our meals, or in the garden supplementing our diets with fresh
+produce. It was, in no uncertain terms, quite the hippie-dippie commune. We
+relied on each other at that school, and it set me on the path towards serving
+my community.
+
 ## University: A Sobering Climb towards Maturity
 
-### Moral Development
-
-### Being Criticized: The Importance of Community Call Outs
-
-### Duke Men's Project
+Coming to Duke was so fundamentally different than high school, but at the same
+time played to my strengths. I came to Duke, and was lucky enough to go on the
+PWILD August Trip, a student led backpacking trip for incoming freshman. It was
+like the synthesis of my CRMS experiences while being surrounded by deeply
+thoughtful and intelligent people.
 
 ### Success At Duke
 
+I hesitate to admit it in writing, but I am evaluated as "smart". What does
+this mean? To me it means that I have a winning combination of radical
+enthusiasm for learning, the ability to synthesize new ideas, and break down
+problems into small easier to tackle problems. This has allowed me to attain
+fairly substantial academic success at Duke without destroying myself. I still
+spend many a Friday night in the library, but I enjoy it. 
+
+When I got to Duke my freshman year, I found that I excelled in my classes
+with, to me at least, moderate effort. I was incredibly lucky to find a domain,
+computer engineering, that both interested me greatly and I in turn was good
+at.  
+
 ### Failure in Success: Losing Humility
 
-### Defeats and Failures
+At Duke, I lost some of that humility I had spent my younger life
+building. I let this academic success get to my head. I grew cocky and
+quietly nurtured a superiority complex. For lack of better words, this was
+stupid. 
+
+After feedback from others (once again the importance of community call outs),
+I realized what I had lost. I am only now on the path toward regaining some of
+this honest self awareness of my place in the grand scheme of things.
+
+### Moral Development
+
+Let me say that I was, and still am, deeply problematic. I only have the words
+to describe my own immaturity at this point of my life from the work I have
+done and others have done alongside me that help contextualize this. On PWILD,
+on the first night, I told a series of dirty jokes that were deeply
+inappropriate and must have made my fellow crew deeply uncomfortable with me.
+Thinking about it now, I feel deeply ashamed of myself for this. The trip went
+on, and I was exposed to the struggles that my fellow crew had. On the tail
+side of the trip, I had made a misogynist and objectifying comment about a
+"Wild Women's Retreat" event we were passing by, and a staffer called me out
+for it. I couldn't find the words to respond. They were right, and I was being
+hurtful. I sat in silence and licked my wounds. This was the start of my change
+for the better, but even getting better cannot erase the past. When I think
+about how trash I was and what progress I have made it only motivates me to be
+even more thoughtful, kind, and nuanced in my language.
+
+### Being Criticized: The Importance of Community Call Outs
+
+For me, this is the essence of why being called out is exactly what I needed to
+spur me towards being a better person. Let's be honest, someone needed to set
+me straight. I wish that I could have come to this realization myself, but I
+lacked the tools. Someone else had to put in the emotional labor of confronting
+me. These people I, to this day, deeply admire and thank for their work in
+making me a better person.
+
+It's true for so many men of my own age, and I was only lucky enough to be
+paying attention at those moments of ripeness. The most progress and change I
+have made morally come from those evenings where, following a call out earlier
+that day, I was forced to entertain the idea of my misgivings. I was only lucky
+enough to be open to alternatives. The combination of my own humility, with the
+(far more important) call to be better by those I admired in my community
+helped me to that sobering climb towards maturity. 
+
+### Duke Men's Project
+
+In my junior year at Duke, I joined the Duke Men's Project, a brand new (at the
+time) intiative to make a community of men who would help teach each other to
+be more moral and aware people. We met weekly at the women's center on east
+campus to discuss issues underpinning systemic inequality and
+intersectionality. It was a tremendously useful learning experience for me.
+
+At this point I have to take a quick aside to talk about my issues with the
+word "woke". When we call someone woke, I feel that we are turning awareness
+into moral points. By splitting the world into people who are woke or not, we
+make two mistakes: people who are woke are sufficiently good and do not need to
+continue learning, and people who are not woke know less about hardship and
+struggle than those who are. To say that we are woke is to lose the fact that
+we are all crooked timber, stumbling towards being better. It's like a
+commoditized moral license. Once you are woke, then you can sit back and
+relax. Awarness is useless without action. Guilt is useless if it does not spur
+you to change the structures that you feel guilty about. Just because we are
+good in one area, gives us zero free passes in other areas.  
+
+I bring this up because I feel that, even as we tried for this not to happen,
+the Men's project encouraged allyship as an identity. That now that we've done
+the Men's project, we were woke and everything was amazing. The Men's project
+gave me the words and perspective to only start the path towards being a better
+person. It was the first step on a never ending personal journey towards being
+better and acting better, by helping those people who are most hurt by these
+power structures, and leveraging our privilege to tackle them. 
+
+I am not woke, I am deeply problematic on a daily basis. It's not okay. Every
+day I try to be better, and every day I stumble.
+
+That has been my moral development, embracing that I am crooked timber, and
+embracing the struggle to not only have more moral beliefs, but more moral
+actions as well.
 

@@ -20,22 +20,133 @@ perhaps the most misunderstood poem in American popular thought, the meaning of
 the poem is not that taking the road less traveled made all the difference, but
 that the protagonist is rationalizing the future impact of what seems like a
 weighty decision. The choices I make for my first job or city. Many choices
-turn out to be irrelevant stumblings on my path. 
-
+turn out to be irrelevant stumbling blocks on my path. Often these choices seem
+deeply important in the moment, but looking back we see, with a little more
+objectivity, that these made no fundamental shift in our perspectives. We
+can only connect the dots looking backward. 
 
 ## Aspirations
 
+With all this in mind, I cannot say that I have strict goals for myself when
+and if (God willing) I hit thirty years old. My metrics for success, happiness,
+and meaning in my twenties are much similar to my metrics so far but of a
+pivoted focus. I mention my aspirations not as goals per se, but as touchstones
+of meaning that I will chase for the next 7 years, and beyond. 
+
 ### Find a Community
 
+This next period in my life I am moving from a position of hustling within the
+communities of my schools and family, to those entirely new of work, and city,
+and random happenstance. It is a watershed moment, for the communities that I
+find and make my place in define my behavior and my behavior defines my values.
+
+The question is what do I want out of my community? The same I have wanted out
+of my Duke and CRMS communites. Now, no one community will fit all of these
+criteria, and so it will be up to me to make time for a mix of those groups
+that will add up to where I want to be.
+
+- Seek to help each other
+- Inclusive Culture
+- Challenge and improve each other
+- Widen my perspective 
+- Camaraderie, or shared suffering/stakes
+
+I want a (gender-neutral) brotherhood. I can rely on my community and they can
+rely on me in turn. These people bring out the best in me. I will break down
+how to find these communities later, but even this problem definition should
+not be considered solved. The question of what tribe I should belong to is
+intertwined with the question of who I want to be. The communities I belong to
+could make me stronger but colder, or warmer but weaker, or yet some non
+dichotomous combination of everything. 
+
+The higher level goal of finding a community, is that by surrounding myself
+with good people, I in turn am called upon to be good myself. 
+
 ### Professional Development and Recognition
+
+As mentioned many (perhaps too many) times in this map, I want to do good work.
+It's even better if I can be recognized by my peers that my work is good. It
+just gives me butterflies to have my work appreciated. I mean, this stuff is
+dreadfully obvious, unnecesary to say even. The question here is how to balance
+personal satisfaction in my work, external evaluation of my work, and time
+investment taken to complete it. I value achievement, and in a work environment
+that short-circuits my brains rewarding logic, I could easily overwork or
+overprioritize achievement in my twenties. It would be exceedingly easy for me
+to put my head down, work hard, and wake up 7 years down the road, even having
+made it "up" the technical ladder, but having made little to no progress on the
+other goals that I value. 
+
+Working hard may be difficult, but at the end of the day it is simple. That
+simplicity makes it attractive as a refuge from the complexity of social
+interaction or value clarification that will round out and mature me in needed
+ways moving forward.
 
 ## Strategies
 
 ### Master my Craft
 
+I have the tools in my repertoire to get better at my craft. I have spent the
+past 4 years becoming a better programmer and engineer. I will spend the rest
+of my working life building and developing my "hard" skills. I love to read
+technical manuals and textbooks. These strategies are, in my opinion, boring,
+but I'll quickly list them out for completion.
+
+- Keep pace with current technology
+    - Read about cutting edge practices
+    - Attend conferences and engage with other experts in the field
+- Seek out mentors
+- Aggressively seek and incorporate constructive feedback
+- Refuse to coast, always be improving your skills
+
 ### Prioritize Health
+
+By the time I am 30 I want to be able to:
+
+- Squat 300 pounds
+- Deadlift 400 pounds
+- Do ten pullups in a row
+- Be able to run 5 kilometers 
+
+Currently I am:
+
+- 280 pounds, at least 100 pounds overweight for my height
+- unable to do a single pull up
+- unable to run any sizable distance
+- Able to, at my most, move weights of 150 pounds.
+
+These are instantly measurable, and reasonably achievable. I mention these
+first since I find it so easy to let myself slunk from my goals. To settle for
+less than what I wanted. 
+
+For the past 23 years, I have let my health sour as a trade off for academic
+and social goals. This is simply unsustainable. I have my youth now to hide the
+effects of my poor fitness under my young *joie de vivre*, but that will age as
+I do. I want to live a good life. That means I need to have the energy and
+liveliness to tackle my day at any age. It comes down to Newton's Laws, an object in motion stays in motion and an
+object at rest stays at rest unless acted upon by another object. When I see
+the quality of my life in the next ten, twenty, fourty years I begin to see the
+negative effects my health will produce in me. I am wasting my potential if I
+do not get to a minimum level of health to see my goals through to the end. I
+can do so much more good if my life is not 30% shorter. 
 
 ### Widen my T 
 
+Sitting in a dark room, rapidly typing at a keyboard while music plays on my
+headphones is, no doubt for me at least, a fun time if I'm working on a cool,
+difficult problem. The issue is that this is only improving my depth of ability
+and not making a fundamental shift in my competencies. Retreating to an ivory
+tower to emerge with a program that elegantly solves a novel problem is my
+meat and potatoes. It's my candy. 
 
+I need to eat my vegetables. If I want to supercharge my ability to make waves
+in my career, and tackle problems outside of the workplace, I need to develop
+skills in other areas. The buzz phrase is "widen my T", but what this means is
+that outside of my ability to solve technical problems, I need to learn how to
+interact with customers, what questions to ask that isolate the problem they
+face, so that I can be better equipped to solve their issues. 
+
+I need to be better at the soft (but still absolutely difficult) skills of
+people management, interaction, and negotiation. In turn, I hope this wider
+skillset can give me the power to make key benefits outside of my career for
+the things that I most value. 
 
